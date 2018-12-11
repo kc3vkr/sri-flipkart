@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="133230" started-at="2018-12-07T18:20:26Z" finished-at="2018-12-07T18:22:40Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="133230" started-at="2018-12-07T18:20:26Z" finished-at="2018-12-07T18:22:40Z">
+      <class name="com.flipkart.test.somke.LoginPageSmokeTest">
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:com.flipkart.test.somke.LoginPageSmokeTest@2b98378d]" name="preCondition" is-config="true" duration-ms="54685" started-at="2018-12-07T18:20:26Z" finished-at="2018-12-07T18:21:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="test1LoginPageTitle()[pri:0, instance:com.flipkart.test.somke.LoginPageSmokeTest@2b98378d]" name="test1LoginPageTitle" duration-ms="381" started-at="2018-12-07T18:21:21Z" finished-at="2018-12-07T18:21:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1LoginPageTitle -->
+        <test-method status="PASS" signature="postCondition()[pri:0, instance:com.flipkart.test.somke.LoginPageSmokeTest@2b98378d]" name="postCondition" is-config="true" duration-ms="4048" started-at="2018-12-07T18:21:21Z" finished-at="2018-12-07T18:21:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:com.flipkart.test.somke.LoginPageSmokeTest@2b98378d]" name="preCondition" is-config="true" duration-ms="33300" started-at="2018-12-07T18:21:26Z" finished-at="2018-12-07T18:21:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="test2InvalidLogin()[pri:0, instance:com.flipkart.test.somke.LoginPageSmokeTest@2b98378d]" name="test2InvalidLogin" duration-ms="1392" started-at="2018-12-07T18:21:59Z" finished-at="2018-12-07T18:22:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2InvalidLogin -->
+        <test-method status="PASS" signature="postCondition()[pri:0, instance:com.flipkart.test.somke.LoginPageSmokeTest@2b98378d]" name="postCondition" is-config="true" duration-ms="2636" started-at="2018-12-07T18:22:00Z" finished-at="2018-12-07T18:22:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:com.flipkart.test.somke.LoginPageSmokeTest@2b98378d]" name="preCondition" is-config="true" duration-ms="32737" started-at="2018-12-07T18:22:03Z" finished-at="2018-12-07T18:22:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="test3ValidLogin()[pri:0, instance:com.flipkart.test.somke.LoginPageSmokeTest@2b98378d]" name="test3ValidLogin" duration-ms="1017" started-at="2018-12-07T18:22:36Z" finished-at="2018-12-07T18:22:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3ValidLogin -->
+        <test-method status="PASS" signature="postCondition()[pri:0, instance:com.flipkart.test.somke.LoginPageSmokeTest@2b98378d]" name="postCondition" is-config="true" duration-ms="2935" started-at="2018-12-07T18:22:37Z" finished-at="2018-12-07T18:22:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+      </class> <!-- com.flipkart.test.somke.LoginPageSmokeTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
